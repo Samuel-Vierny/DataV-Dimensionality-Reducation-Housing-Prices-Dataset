@@ -1,0 +1,6 @@
+pandas==2.2.2
+matplotlib==3.8.4
+sklearn==latest
+numpy==1.26.4
+umap==latest
+seaborn==0.13.2
